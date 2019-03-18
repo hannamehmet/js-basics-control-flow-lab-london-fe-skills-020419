@@ -26,9 +26,9 @@ function ternaryCheckCity(destinationCity) {
 
 function switchOnCharmFromTip() {
 
-switch (tip) {
+switch () {
     case 'generous':
-        response = switchOnCharmFromTip();
+        response = "Thank you so much.";
     case 'sad':
         response = "You're awesome; keep your head up!";
     default:
