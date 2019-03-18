@@ -24,8 +24,6 @@ function ternaryCheckCity(destinationCity) {
   }
 }
 
-let tip = "generous"
-
 function switchOnCharmFromTip(tip) {
 
 switch (tip) {
