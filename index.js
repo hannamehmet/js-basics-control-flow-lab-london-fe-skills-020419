@@ -13,6 +13,7 @@ function scuberGreetingForFeet(someValue) {
  
 }
 
+let destinationCity = "Pittsburgh"
 
 function ternaryCheckCity(destinationCity) {
   if (destinationCity = "NYC") {
@@ -23,7 +24,7 @@ function ternaryCheckCity(destinationCity) {
   }
 }
 
-let tip = generous
+let tip = "generous"
 
 function switchOnCharmFromTip() {
 
@@ -34,4 +35,5 @@ switch (tip) {
         response = "You're awesome; keep your head up!";
     default:
         response = "Sorry, I don't know how to respond to that mood.";
+}
 }
