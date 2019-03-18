@@ -33,7 +33,11 @@ switch (tip) {
         response = "Thank you so much.";
     case "not as generous":
         response = "You're awesome; keep your head up!";
-    default:
-        response = "Sorry, I don't know how to respond to that mood.";
+    
+    }
+    
+    else {
+        return "Bye.";
+}
 }
 }
