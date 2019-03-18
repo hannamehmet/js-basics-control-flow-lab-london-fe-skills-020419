@@ -24,7 +24,6 @@ function ternaryCheckCity(destinationCity) {
   }
 }
 
-let destinationCity = "Pittsburgh";
 
 function switchOnCharmFromTip(tip) {
 
