@@ -22,5 +22,4 @@ function ternaryCheckCity(destinationCity) {
   else {
     return "No go.";
   }
-  
 }
