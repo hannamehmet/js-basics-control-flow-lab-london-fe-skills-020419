@@ -13,12 +13,12 @@ function scuberGreetingForFeet(someValue) {
  
 }
 
-function ternaryCheckCity(someCity) {
-  if (someCity = "NYC") {
+function ternaryCheckCity(destinationCity) {
+  if (destinationCity = "NYC") {
     return "Ok, sounds good.";
   }
   else {
-    return "No go."
+    return "No go.";
   }
   
 }
