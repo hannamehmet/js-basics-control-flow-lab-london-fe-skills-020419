@@ -13,7 +13,7 @@ function scuberGreetingForFeet(someValue) {
  
 }
 
-let destinationCity = "Pittsburgh";
+
 
 function ternaryCheckCity(destinationCity) {
   if (destinationCity = "NYC") {
@@ -23,6 +23,8 @@ function ternaryCheckCity(destinationCity) {
     return "No go.";
   }
 }
+
+let destinationCity = "Pittsburgh";
 
 function switchOnCharmFromTip(tip) {
 
