@@ -23,6 +23,9 @@ function ternaryCheckCity(destinationCity) {
   }
 }
 
+
+function switchOnCharmFromTip() {
+
 switch (tip) {
     case 'generous':
         response = 'Heck yea; be happy!';
