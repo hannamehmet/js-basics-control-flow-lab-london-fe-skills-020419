@@ -36,9 +36,5 @@ switch (tip) {
         response = "You're awesome; keep your head up!";
         break;
     }
-    
-    else {
-        return "Bye.";
-}
 }
 }
