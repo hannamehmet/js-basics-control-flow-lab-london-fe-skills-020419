@@ -13,7 +13,6 @@ function scuberGreetingForFeet(someValue) {
  
 }
 
-let destinationCity = "Pittsburgh";
 
 function ternaryCheckCity(destinationCity) {
   if (destinationCity = "NYC") {
