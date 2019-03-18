@@ -28,7 +28,7 @@ function switchOnCharmFromTip() {
 
 switch (tip) {
     case 'generous':
-        response = 'Heck yea; be happy!';
+        response = switchOnCharmFromTip();
     case 'sad':
         response = "You're awesome; keep your head up!";
     default:
