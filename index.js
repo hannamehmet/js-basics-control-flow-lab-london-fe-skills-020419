@@ -29,7 +29,7 @@ function switchOnCharmFromTip() {
 switch () {
     case 'generous':
         response = "Thank you so much.";
-    case 'sad':
+    case 'not as generous':
         response = "You're awesome; keep your head up!";
     default:
         response = "Sorry, I don't know how to respond to that mood.";
