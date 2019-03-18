@@ -22,3 +22,12 @@ function ternaryCheckCity(destinationCity) {
     return "No go.";
   }
 }
+
+switch (tip) {
+    case 'generous':
+        response = 'Heck yea; be happy!';
+    case 'sad':
+        response = "You're awesome; keep your head up!";
+    default:
+        response = "Sorry, I don't know how to respond to that mood.";
+}
